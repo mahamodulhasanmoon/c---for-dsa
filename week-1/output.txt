@@ -1,0 +1,3 @@
+10
+A
+Enter your date of birth (day month year): Your date of birth is: 5/10/2004
